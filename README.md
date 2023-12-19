@@ -1,2 +1,2 @@
-# AntibodyBLAST
-BLAST with Antibody contact mapping
+# AbAg
+Antibody-Antigen contact mapping (uses BLAST)
